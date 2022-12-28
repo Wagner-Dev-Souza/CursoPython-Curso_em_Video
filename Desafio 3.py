@@ -1,5 +1,6 @@
-print ('===== DESAFIO 03 =====')
+print('===== DESAFIO 03 =====')
 
-num1 = input ('Primeiro número =')
-num2 = input ('Segundo número=')
-print ('A soma é', num1 + num2)
+n1 = int(input('Primeiro número ='))
+n2 = int(input('Segundo número='))
+s = n1 + n2
+print('A soma entre {} e {} vale {}'.format(n1, n2, s))
