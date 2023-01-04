@@ -1,10 +1,10 @@
 print('='*5, 'DESAFIO 26', '='*5)
 
-F = input('Digite uma frase: ')
+F = input('Digite uma frase: ').strip()
 
 c = F.lower().count('a')
-a1 = F.lower().find("a")
-a2 = F.lower().rfind('a')
+a1 = F.lower().find("a")+1
+a2 = F.lower().rfind('a')+1
 
 print('A letra "a" aparece um total de {} vezes. '.format(c))
 if c > 1:
