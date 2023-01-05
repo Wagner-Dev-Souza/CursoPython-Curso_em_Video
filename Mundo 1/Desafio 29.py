@@ -5,6 +5,6 @@ Vel = float(input('Qual a velocidade do carro em Km/h: '))
 multa = (Vel - 80.0) * 7.00
 
 if Vel > 80.0:
-    print('Velocidade acima do permitido: Multa de R$ {:.2f}'.format(multa))
+    print('\33[33mVelocidade acima do permitido: \33[31mMulta de R$ {:.2f}'.format(multa))
 else:
-    print('Velocidade permitida. Tenha um bom dia! Dirija com segurança!')
+    print('\33[32mVelocidade permitida. Tenha um bom dia! Dirija com segurança!')

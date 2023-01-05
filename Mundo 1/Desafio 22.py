@@ -1,6 +1,6 @@
 print('='*5, 'DESAFIO 22', '='*5)
 
-nome = input('Digite seu nome completo: ')
+nome = input('Digite seu nome completo: \33[34m')
 print(nome.upper())
 print(nome.lower())
 print(len(nome.replace(" ", "")))

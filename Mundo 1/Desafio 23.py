@@ -15,5 +15,5 @@ uni = n // 1 % 10
 dez = n // 10 % 10
 cen = n // 100 % 10
 mil = n // 1000 % 10
-print('Analizando o número {}'.format(n))
-print('Unidade: {}\nDezena: {}\nCentena: {}\nMilhar: {}'.format(uni, dez, cen, mil))
+print('Analizando o número \33[33m{}\33[m'.format(n))
+print('Unidade: \33[34m{}\33[m\nDezena: \33[36m{}\33[m\nCentena: \33[35m{}\33[m\nMilhar: \33[31m{}\33[m'.format(uni, dez, cen, mil))

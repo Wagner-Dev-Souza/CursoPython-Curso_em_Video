@@ -7,4 +7,4 @@ nome3 = input('digite o nome do aluno 3: ')
 nome4 = input('digite o nome do aluno 4: ')
 lista = [nome1, nome2, nome3, nome4]
 random.shuffle(lista)
-print('A ordem de alunos para apresentação de trabalhos é:\n', lista)
+print('A ordem de alunos para apresentação de trabalhos é:\n\33[36m', lista)

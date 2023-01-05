@@ -8,7 +8,7 @@ if ano == 0:
 b = calendar.isleap(ano)
 # ano bissexto é =  ano % 4 == 0 and (ano % 100 != 0 and % 400 == 0)
 if b == True:
-    print('Sim, o ano de {} é bissexto.'.format(ano))
+    print('Sim, o ano de \33[32m{}\33[m é bissexto.'.format(ano))
 else:
-    print('Não, o ano de {} não é bissexto.'.format(ano))
+    print('Não, o ano de \33[32m{}\33[31m não\33[m é bissexto.'.format(ano))
 
