@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 35', '='*5)
+print('\33[32m='*5, 'DESAFIO 35', '='*5,'\33[m')
 
 print('-='*20)
 print('ANALISADOR DE TRIÂNGULO')

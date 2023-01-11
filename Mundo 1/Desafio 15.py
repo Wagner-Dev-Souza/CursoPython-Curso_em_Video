@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 15', '='*5)
+print('\33[32m='*5, 'DESAFIO 15', '='*5,'\33[m')
 
 n = int(input('Informe o número de dias em que o carro foi alugado: '))
 Km = float(input('Informe a kilometragem rodada: '))

@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 31', '='*5)
+print('\33[32m='*5, 'DESAFIO 31', '='*5,'\33[m')
 
 d = float(input('Digite a distância da viagem em Km: \33[33m'))
 

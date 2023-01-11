@@ -1,4 +1,4 @@
-print('=' * 5, 'DESAFIO 25', '=' * 5)
+print('\33[32m='*5, 'DESAFIO 25', '='*5,'\33[m')
 
 nome = str(input('Insira seu nome completo: ').strip())
 f = ('silva' in nome.lower())

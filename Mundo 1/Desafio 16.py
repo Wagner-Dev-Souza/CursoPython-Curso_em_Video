@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 16', '='*5)
+print('\33[32m='*5, 'DESAFIO 16', '='*5,'\33[m')
 
 from math import trunc
 n=float(input('Digite um número: '))

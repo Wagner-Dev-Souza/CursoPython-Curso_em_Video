@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 28', '='*5)
+print('\33[32m='*5, 'DESAFIO 28', '='*5,'\33[m')
 
 from random import randint
 from time import sleep

@@ -1,4 +1,4 @@
-print('=' * 5, 'DESAFIO 45', '=' * 5)
+print('\33[33m{:=^30}\33[m'.format(' DESAFIO 45 '))
 
 from random import choice
 

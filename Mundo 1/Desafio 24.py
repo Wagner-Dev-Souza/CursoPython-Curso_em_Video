@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 24', '='*5)
+print('\33[32m='*5, 'DESAFIO 24', '='*5,'\33[m')
 
 n = input('Digite o nome da sua cidade: ')
 s = n.split()

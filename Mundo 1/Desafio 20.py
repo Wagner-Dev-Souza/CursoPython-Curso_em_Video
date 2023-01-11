@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 20', '='*5)
+print('\33[32m='*5, 'DESAFIO 20', '='*5,'\33[m')
 
 import random
 nome1 = input('Digite o nome do aluno 1: ')

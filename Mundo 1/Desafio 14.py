@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 14', '='*5)
+print('\33[32m='*5, 'DESAFIO 14', '='*5,'\33[m')
 
 C = float(input('Informe a temperatura em ºC: '))
 F = C * 1.8 + 32

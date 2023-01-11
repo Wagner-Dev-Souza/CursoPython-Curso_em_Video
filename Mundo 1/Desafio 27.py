@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 27', '='*5)
+print('\33[32m='*5, 'DESAFIO 27', '='*5,'\33[m')
 
 nome = input('Digite se nome completo: ')
 s = nome.split()

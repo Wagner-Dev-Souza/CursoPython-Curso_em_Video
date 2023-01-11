@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 10', '='*5)
+print('\33[32m='*5, 'DESAFIO 10', '='*5,'\33[m')
 
 n = float(input('Digite seu valor em reais: R$ '))
 m = float(input('Insira o valor da cotação do dolar em reais: R$ '))

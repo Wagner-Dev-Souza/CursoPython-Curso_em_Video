@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 9', '='*5)
+print('\33[32m='*5, 'DESAFIO 9', '='*5,'\33[m')
 
 n = int(input('Digite um número: \33[36m'))
 print('-'*12)

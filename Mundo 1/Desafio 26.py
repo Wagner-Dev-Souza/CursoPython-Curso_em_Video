@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 26', '='*5)
+print('\33[32m='*5, 'DESAFIO 26', '='*5,'\33[m')
 
 F = input('Digite uma frase: ').strip()
 

@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 34', '='*5)
+print('\33[32m='*5, 'DESAFIO 34', '='*5,'\33[m')
 
 n = float(input('Digite seu salário atual: R$ '))
 

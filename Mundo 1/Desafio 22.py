@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 22', '='*5)
+print('\33[32m='*5, 'DESAFIO 22', '='*5,'\33[m')
 
 nome = input('Digite seu nome completo: \33[34m')
 print(nome.upper())

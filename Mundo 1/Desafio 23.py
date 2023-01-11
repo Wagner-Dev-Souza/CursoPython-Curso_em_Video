@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 23', '='*5)
+print('\33[32m='*5, 'DESAFIO 23', '='*5,'\33[m')
 
 #n = input('Digite um número inteiro de 4 digitos: ')
 #print('Analizando o número {}'.format(n))

@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 17', '='*5)
+print('\33[32m='*5, 'DESAFIO 17', '='*5,'\33[m')
 
 from math import sqrt
 co = float(input('Informe o valor do cateto oposto: '))

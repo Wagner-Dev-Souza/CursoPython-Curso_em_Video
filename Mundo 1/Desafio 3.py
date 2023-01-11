@@ -1,5 +1,4 @@
-print('===== DESAFIO 03 =====')
-
+print('\33[32m====== DESAFIO 03 ======\33[m')
 n1 = int(input('Primeiro número ='))
 n2 = int(input('Segundo número='))
 s = n1 + n2

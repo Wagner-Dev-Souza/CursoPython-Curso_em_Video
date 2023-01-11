@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO', '='*5)
+print('\33[32m='*5, 'DESAFIO 30', '='*5,'\33[m')
 
 n = int(input('Digite um numero inteiro: '))
 d = n % 2

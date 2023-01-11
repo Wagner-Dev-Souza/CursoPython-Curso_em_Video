@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 32', '='*5)
+print('\33[32m='*5, 'DESAFIO 32', '='*5,'\33[m')
 
 import calendar
 from datetime import date

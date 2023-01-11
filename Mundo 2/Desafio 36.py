@@ -1,4 +1,4 @@
-print('='*5, 'Desafio 36', '='*5)
+print('\33[33m='*5, 'Desafio 36', '='*5, '\33[m')
 
 casa = float(input('Informe o valor do imóvel: '))
 salario = float(input('Informe o salário do comprador: R$ '))

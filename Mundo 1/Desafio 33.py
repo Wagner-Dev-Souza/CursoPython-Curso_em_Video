@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 33', '='*5)
+print('\33[32m='*5, 'DESAFIO 33', '='*5,'\33[m')
 
 a = float(input('Digite o primeiro número: '))
 b = float(input('Digite o segundo número: '))

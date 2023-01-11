@@ -1,4 +1,4 @@
-print('\33[35m=' * 5, 'DESAFIO 21', '=' * 5)
+print('\33[32m='*5, 'DESAFIO 21', '='*5,'\33[m')
 
 from webbrowser import open
 open('S.mp3')

@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 18', '='*5)
+print('\33[32m='*5, 'DESAFIO 184', '='*5,'\33[m')
 
 import math
 a = float(input('insira o ângulo em graus: '))

@@ -1,4 +1,4 @@
-print('='*5, 'DESAFIO 19', '='*5)
+print('\33[32m='*5, 'DESAFIO 19', '='*5,'\33[m')
 
 from random import choice
 n1 = (input('Insira um nome: '))

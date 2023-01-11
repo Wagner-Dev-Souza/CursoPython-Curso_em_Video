@@ -1,4 +1,4 @@
-print ('===== DESAFIO 02 =====')
+print('\33[32m====== DESAFIO 02 ======\33[m')
 print ('preencha com a data do seu nascimento')
 dia = input ('Dia (2 digitos)=')
 mes = input ('Mês (texto)=')
