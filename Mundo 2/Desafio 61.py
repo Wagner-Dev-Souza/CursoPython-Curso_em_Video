@@ -6,3 +6,4 @@ razao = int(input('Insira a razão da PA: '))
 while n < 10:
     print(pri_ter + (razao * n), end='->')
     n += 1
+print('FIM')

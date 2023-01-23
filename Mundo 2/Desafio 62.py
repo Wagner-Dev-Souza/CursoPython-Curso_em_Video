@@ -14,4 +14,5 @@ while fim != 0:
         print(pri_ter + (razao * n), end='->')
         m += 1
         n += 1
+print('Voce digitou {} termos dessa PA.'.format(total))
 print('\33[31mFIM')
