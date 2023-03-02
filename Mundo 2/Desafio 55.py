@@ -15,7 +15,7 @@ print('O mais pesado foi {}, e o mais leve {}.'.format(M, m))'''
 
 M = 0
 m = 0
-for i in range (1, 6):
+for i in range(1, 6):
     peso = float(input('Peso da {}ª pessoa: '.format(i)))
     if i == 1:
         M = peso
