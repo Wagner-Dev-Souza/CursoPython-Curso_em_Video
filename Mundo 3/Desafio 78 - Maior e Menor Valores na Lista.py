@@ -6,7 +6,7 @@ for cont in range(0, 5):
 maior = (max(valores))
 menor = (min(valores))
 
-print('=-'*30)
+print('=-' * 30)
 print(f'Você digitou os valores {valores}')
 print(f'O maior valor sorteado foi {maior} nas posições ', end='')
 for c, v in enumerate(valores):

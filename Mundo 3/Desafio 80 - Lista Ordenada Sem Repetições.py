@@ -23,5 +23,5 @@ for cont in range(0, 5):
         valores.insert(3, n)
         print('Adicionado na posição 3 da lista...')
 
-print('=-'*30)
+print('=-' * 30)
 print(f'Os valores digitados em ordem foram {valores}')

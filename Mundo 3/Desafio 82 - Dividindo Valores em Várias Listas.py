@@ -8,7 +8,7 @@ while True:
     if cont != 's':
         break
 
-print('=-'*30)
+print('=-' * 30)
 print(f'A lista completa é {valores}')
 pares = list()
 ímpares = list()

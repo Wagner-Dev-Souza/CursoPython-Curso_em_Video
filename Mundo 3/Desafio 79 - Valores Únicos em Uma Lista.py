@@ -13,5 +13,5 @@ while True:
     if cond != 's':
         break
 
-print('=-'*30)
+print('=-' * 30)
 print(f'Você digitou os valores {sorted(valores)}')
